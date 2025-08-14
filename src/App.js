@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Plus, Trash2, Check, Clock, DollarSign, Users, Target, Upload, FileText, Eye } from 'lucide-react';
+import { Plus, Trash2, Check, Clock, Users, Target, Upload, FileText, Eye } from 'lucide-react';
 
 const ControleMcDiaFeliz = () => {
   const [vendas, setVendas] = useState([
